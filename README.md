@@ -9,6 +9,9 @@ Using Unity and C#, I implemented basic neural network concepts, removing the id
 **Figure 1.2: The Simulation**
 ![Image of Simulation](https://i.gyazo.com/0a4169d1ef3dd36e93d83674e5648251.png)
 
+**Figure 1.3: In Action**
+[![Image from Gyazo](https://i.gyazo.com/cf04cc6eefbaa5ae2f23a4e904198714.gif)](https://gyazo.com/cf04cc6eefbaa5ae2f23a4e904198714)
+
 
 # Implementation
 Cars are given randomly initialized DNA. In this simulation, the best cars are determined by how long they travel for (**fitness**). The two best cars' DNAs are crossed over and mutated
