@@ -3,10 +3,10 @@ Using Unity and C#, I implemented basic neural network concepts, removing the id
 
 # Simulations (for those who do not want to use Unity)
 
-Figure 1.1: The Agent Model, an asset from the standard asset store in Unity
+**Figure 1.1: The Agent Model, an asset from the standard asset store in Unity**
 ![Agent Model](https://i.gyazo.com/64e093d86157af72663637ab08533abb.png)
 
-Figure 1.2: The Simulation
+**Figure 1.2: The Simulation**
 ![Image of Simulation](https://i.gyazo.com/0a4169d1ef3dd36e93d83674e5648251.png)
 
 
