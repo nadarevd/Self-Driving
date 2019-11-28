@@ -2,7 +2,13 @@
 Using Unity and C#, I implemented basic neural network concepts, removing the idea of back propogation and using genetic algorithms to give the cars the ability of reinforced learning. Cars will learn, over time, what the best path is based on cars with the best genes. \
 
 # Simulations (for those who do not want to use Unity)
+
+Figure 1.1: The Agent Model, an asset from the standard asset store in Unity
+![Agent Model](https://i.gyazo.com/64e093d86157af72663637ab08533abb.png)
+
+Figure 1.2: The Simulation
 ![Image of Simulation](https://i.gyazo.com/0a4169d1ef3dd36e93d83674e5648251.png)
+
 
 # Implementation
 Cars are given randomly initialized DNA. In this simulation, the best cars are determined by how long they travel for (**fitness**). The two best cars' DNAs are crossed over and mutated
