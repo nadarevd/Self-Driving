@@ -9,7 +9,7 @@ Using Unity and C#, I implemented basic neural network concepts, removing the id
 **Figure 1.2: The Simulation**
 ![Image of Simulation](https://i.gyazo.com/0a4169d1ef3dd36e93d83674e5648251.png)
 
-**Figure 1.3: In Action**
+**Figure 1.3: In Action** <br/>
 ![gif](https://media.giphy.com/media/PhfJjvZ9c9mR3ztHkk/giphy.gif)
 
 # Implementation
