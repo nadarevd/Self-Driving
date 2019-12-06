@@ -1,5 +1,8 @@
 # Self-Driving
-Using Unity and C#, I implemented basic neural network concepts, removing the idea of back propogation and using genetic algorithms to give the cars the ability of reinforced learning. Cars will learn, over time, what the best path is based on cars with the best genes. \
+Using Unity and C#, we implemented basic neural network concepts, removing the idea of back propogation and using genetic algorithms to give the cars the ability of reinforced learning. Cars will learn, over time, what the best path is based on cars with the best genes. 
+
+# For Ms. Selvarajah
+This github repository only has the code for the project, not the project itself. Since we do not know how to upload Unity projects (they are very large files, this one was 600Mb), we will just show you the code and some screenshots/videos. We hope you enjoy our work!
 
 # Simulations (for those who do not want to use Unity)
 
