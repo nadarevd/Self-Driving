@@ -4,6 +4,9 @@ Using Unity and C#, we implemented basic neural network concepts, removing the i
 # For Ms. Selvarajah
 This github repository only has the code for the project, not the project itself. Since we do not know how to upload Unity projects (they are very large files, this one was 600Mb), we will just show you the code and some screenshots/videos. We hope you enjoy our work!
 
+Click this YouTube link to see the simulation run in Unity. 
+https://www.youtube.com/watch?v=MLyCb2UqR68
+
 # Simulations (for those who do not want to use Unity)
 
 **Figure 1.1: The Agent Model, an asset from the standard asset store in Unity**
